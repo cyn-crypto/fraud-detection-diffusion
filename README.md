@@ -29,4 +29,4 @@ transaction deviates from normal behavior. Rather than assuming that trajectory 
 improved explainability, this project empirically evaluates whether such trajectory-based features offer meaningful
 advantages over standard reconstruction-based anomaly signals.
 
-The Report can can be found in the same folder.
+The Report can can be found in this same folder which contains the Methodology, Results and everything else.
