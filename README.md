@@ -1,4 +1,5 @@
 **Problem Statement & Motivation**
+
 Fraud detection systems are commonly designed to assign scalar anomaly scores to transactions, enabling automated
 identification of potentially fraudulent activity. While effective in practice, these approaches often provide limited
 interpretability, offering little insight into why a transaction is flagged as anomalous. This lack of transparency can
